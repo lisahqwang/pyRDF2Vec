@@ -1,2 +1,2 @@
 # pyRDF2Vec
-Small RDF graph format to Vector 
+Copy of RDF graph format to Vector, ran out of space on laptop
